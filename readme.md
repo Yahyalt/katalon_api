@@ -140,7 +140,7 @@ The API requests are configured in the **Object Repository**. To modify endpoint
 ### View Test Results
 1. After test execution, go to **Reports** folder
 2. Open the generated HTML report
-3. Review test execution details, pass/fail status, and logs
+3. Review test execution details, pass/fail status, and logs 
 
 ### Log Analysis
 - Check **Log Viewer** for detailed execution logs
